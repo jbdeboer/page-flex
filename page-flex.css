@@ -1,0 +1,14 @@
+.page-flex {
+    display: flex;
+    align-items: center;
+    height: 70%;
+}
+
+.page-end {
+    height: 35%;
+}
+
+.page-block {
+    margin-left: auto;
+    margin-right: auto;
+}
